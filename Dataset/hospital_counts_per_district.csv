@@ -1,0 +1,578 @@
+District,Hospital Count
+Mumbai,1308
+Ahmedabad,1130
+Bengaluru Urban,993
+Hyderabad,852
+Thane,725
+Pune,660
+Chennai,552
+Vadodara,482
+Kolkata,416
+Jaipur,408
+Surat,341
+Nagpur,290
+Faridabad,282
+Lucknow,272
+Coimbatore,262
+Gurgaon,262
+Ghaziabad,260
+Patna,248
+Indore,244
+Ludhiana,211
+Agra,199
+Mahesana,199
+Krishna,193
+Raigarh,189
+Gautam Buddha Nagar,188
+Amritsar,185
+Guntur,184
+Ernakulam,180
+Kolhapur,178
+Nashik,176
+Kanpur Nagar,175
+Rajkot,172
+Raipur,170
+Meerut,169
+Varanasi,169
+Madurai,167
+Solapur,167
+East Godavari,163
+Satara,160
+Kanchipuram,151
+Bhopal,146
+Allahabad,145
+Anand,145
+Jalgaon,138
+Jalandhar,135
+Sabar kantha,135
+Dehradun,131
+Visakhapatnam,130
+Kanniyakumari,129
+Aurangabad,129
+Tiruchirappalli,126
+Hisar,120
+Bardhaman,117
+Dakshina Kannada,117
+Ahmednagar,115
+Erode,111
+Thiruvananthapuram,111
+Chittoor,107
+Bareilly,107
+Ranchi,107
+Gorakhpur,106
+Kheda,105
+Cuttack,105
+Salem,104
+Belagavi,102
+Moradabad,100
+Bharuch,99
+Panchmahal,97
+Banas kantha,95
+Mysuru,94
+Valsad,93
+Kachchh,92
+Gandhinagar,92
+Kota,90
+Dharwad,90
+Bengaluru Rural,89
+Panipat,89
+West Godavari,89
+Udham Singh Nagar,89
+Karimnagar,88
+Tiruvallur,87
+Alwar,86
+Ambala,86
+Bilaspur,84
+Fatehgarh Sahib,84
+Kangra,84
+Ranga Reddy,83
+Shimla,83
+Gurdaspur,81
+Karnal,81
+Howrah,81
+Bhavnagar,81
+Yamunanagar,80
+Warangal,80
+Sonipat,78
+Gwalior,78
+Tirunelveli,77
+Udaipur,77
+Kottayam,77
+Rohtak,76
+Jabalpur,76
+Khordha,76
+Virudhunagar,76
+Thrissur,74
+Hooghly,74
+Haridwar,74
+Patan,74
+Jamnagar,73
+Bathinda,73
+North 24 Parganas,71
+Rewari,71
+Puri,70
+Muzaffarnagar,70
+Aligarh,69
+Medinipur East,69
+Sirsa,68
+Junagadh,68
+Kollam,68
+Saharanpur,66
+Jodhpur,66
+Mathura,65
+Durg,64
+Panchkula,64
+Ajmer,64
+Amravati,64
+Kurnool,62
+Sangli,61
+Shivamogga,61
+Khammam,61
+Rupnagar,60
+Chandigarh,60
+Solan,60
+Bhiwani,59
+Y.S.R.,59
+Navsari,59
+Mandi,58
+Kamrup,58
+Alappuzha,58
+SPSR Nellore,58
+Prakasam,57
+Jaunpur,56
+Kannur,56
+Ganjam,55
+Ballari,53
+Firozpur,53
+Kozhikode,53
+South 24 Parganas,53
+Bulandshahr,52
+Dindigul,52
+Thanjavur,51
+Jammu,51
+Latur,51
+Tumakuru,51
+Bagalkot,50
+Kurukshetra,50
+Nalanda,50
+Nalgonda,50
+Bijnor,50
+Nadia,49
+Dahod,49
+Palakkad,49
+Gulbarga,49
+Azamgarh,48
+Malappuram,48
+Dhule,48
+Medinipur West,47
+Tuticorin,47
+Udupi,46
+North Goa,45
+Begusarai,45
+Anantapur,44
+Gaya,44
+East Champaran,44
+Dhanbad,44
+Bhilwara,44
+Vaishali,43
+Puducherry,43
+Darbhanga,42
+Ganganagar,42
+Palwal,42
+Mandya,42
+Namakkal,41
+Muzaffarpur,41
+Uttara Kannada,41
+Kolar,41
+Pathanamthitta,40
+Medak,40
+Hamirpur,40
+Mayurbhanj,40
+Patiala,39
+Beed,39
+Hoshiarpur,39
+Mahendragarh,39
+South Goa,39
+Ratnagiri,39
+Davangere,38
+Bhagalpur,38
+Nizamabad,38
+Srikakulam,37
+Vijayapura,37
+Vellore,37
+Barnala,36
+Jind,36
+Bokaro,36
+Moga,35
+Bankura,35
+Dewas,35
+Raichur,35
+Kullu,35
+Chandrapur,35
+Akola,34
+Kasaragod,34
+Dausa,34
+Sultanpur,34
+Jhansi,34
+Faridkot,34
+Nanded,34
+Una,34
+Surendranagar,34
+Sindhudurg,33
+Nainital,33
+Hassan,33
+East Singhbhum,33
+Ujjain,33
+Sangrur,33
+Dharmapuri,33
+Purnia,33
+Fatehabad,33
+Vizianagaram,32
+West Champaran,32
+Sambalpur,32
+Birbhum,31
+Chikkamagaluru,31
+Chamba,31
+Raebareli,31
+Amreli,30
+Cuddalore,30
+Krishnagiri,30
+Sri Muktsar Sahib,30
+Darjeeling,30
+Sikar,29
+Adilabad,29
+Ramanathapuram,28
+West Garo Hills,28
+Bharatpur,27
+Katihar,27
+Theni,26
+Nagapattinam,26
+Karur,26
+S.A.S Nagar,26
+Nawada,26
+Gadag,26
+Baleswar,26
+Bargarh,26
+Aizawl,26
+Shahjahanpur,26
+Idukki,25
+Hazaribag,25
+Pudukkottai,25
+Sirmaur,25
+Barabanki,25
+Bhadohi,25
+Ambedkar Nagar,24
+Murshidabad,24
+Pilibhit,24
+Villupuram,24
+Pratapgarh,24
+Kheri,24
+Narmada,24
+Sivaganga,23
+Balangir,23
+Srinagar,23
+Baghpat,23
+Faizabad,23
+Jhajjar,22
+Samastipur,22
+Jalna,22
+Kaithal,22
+Budaun,22
+Deoria,21
+Sundargarh,21
+Kendujhar,21
+Malda,21
+Pali,21
+Chatra,20
+Dhar,20
+Chandauli,20
+Ratlam,20
+Porbandar,20
+Dibrugarh,20
+Fatehpur,20
+Siwan,20
+Bikaner,20
+Lohardaga,20
+Almora,20
+West Tripura,20
+Bidar,20
+Giridih,20
+Saran,20
+Jhunjhunu,19
+Palamu,19
+Madhubani,19
+Saharsa,19
+Mahabubnagar,19
+Satna,19
+Amroha,19
+Jajapur,19
+Buldhana,19
+Dhenkanal,19
+Dumka,18
+Osmanabad,18
+Sitamarhi,18
+Dadra and Nagar Haveli,18
+Yavatmal,18
+Bhandara,18
+Korba,18
+Kalahandi,18
+Khargone,18
+Farrukhabad,18
+Chitradurga,18
+Firozabad,18
+Etawah,17
+Hoshangabad,17
+Munger,17
+Haveri,17
+Sawai Madhopur,17
+East Khasi Hills,17
+Tiruvannamalai,17
+Kishanganj,17
+Mirzapur,16
+Wayanad,16
+Tonk,16
+Rohtas,16
+Rayagada,16
+Sitapur,16
+Ramgarh,16
+Etah,16
+Nandurbar,16
+Nawanshahr,16
+Nagaur,15
+Mansa,15
+Chamarajanagar,15
+Kushinagar,15
+Cachar,15
+Bhadrak,15
+Kaimur (Bhabua),15
+Angul,15
+Gonda,14
+Pauri Garhwal,14
+Seraikella-Kharsawan,14
+Sonbhadra,14
+Sheikhpura,14
+Latehar,14
+Hanumangarh,14
+Kapurthala,14
+Kendrapara,14
+Jharsuguda,14
+Parbhani,14
+The Nilgiris,14
+Kinnaur,14
+Imphal West,14
+Koraput,14
+Kabirdham,14
+Neemuch,14
+Tinsukia,14
+Deoghar,14
+Basti,14
+Jorhat,14
+Kanpur Dehat,14
+Burhanpur,14
+Cooch Behar,13
+Gondia,13
+Rampur,13
+Kandhamal,13
+Sirohi,13
+Jalpaiguri,13
+Mau,13
+Jalaun,13
+Tapi,13
+Tiruvarur,13
+Chittorgarh,13
+Jagatsinghapur,13
+Gajapati,12
+Unnao,12
+Lahaul and Spiti,12
+Mamit,12
+Champhai,12
+Katni,12
+Sagar,12
+Chikkaballapur,12
+Banda,12
+Kodagu,12
+Surguja,12
+Jhalawar,12
+Ballia,12
+Buxar,11
+West Singhbhum,11
+Dhamtari,11
+Gumla,11
+Lakhisarai,11
+Betul,11
+Araria,11
+Nabarangpur,11
+Koderma,11
+Rajsamand,11
+Gopalganj,11
+Rajnandgaon,11
+Banswara,11
+Lunglei,10
+Purulia,10
+Bundi,10
+Khandwa,10
+Mandsaur,10
+Hardoi,10
+Banka,10
+Balrampur,10
+Wardha,10
+Bahraich,10
+Mewat,10
+Madhepura,10
+Churu,10
+Jamui,10
+Godda,10
+Ghazipur,9
+Garhwa,9
+Balaghat,9
+Bhojpur,9
+Rewa,9
+Hathras,9
+Perambalur,9
+South Tripura,9
+Nayagarh,9
+Supaul,9
+Korea,9
+Siddharth Nagar,9
+Jehanabad,8
+Barwani,8
+Ramanagara,8
+Maharajganj,8
+Sivasagar,8
+Lakhimpur,8
+Auraiya,8
+Saiha,8
+Jashpur,8
+Khagaria,8
+Vidisha,8
+Hingoli,8
+Dungarpur,8
+Simdega,7
+Harda,7
+Sonitpur,7
+Golaghat,7
+Morena,7
+Mainpuri,7
+Pithoragarh,7
+Lalitpur,7
+Kaushambi,7
+Mahasamund,7
+Bastar,7
+Serchhip,7
+Dholpur,7
+Sant Kabir Nagar,7
+Washim,7
+North Tripura,7
+Barmer,7
+Chhatarpur,6
+Chhindwara,6
+Nuapada,6
+Kolasib,6
+Dantewada,6
+Dinajpur Uttar,6
+Jalore,6
+Janjgir-Champa,6
+Chamoli,6
+Bongaigaon,6
+South Andaman,5
+Champawat,5
+Jaintia Hills,5
+Dhalai,5
+Dang,5
+Lawngtlai,5
+Ri Bhoi,5
+West Khasi Hills,5
+Dimapur,5
+Sheohar,5
+Malkangiri,5
+Daman,5
+Karauli,5
+Narayanpur,5
+Sonepur,5
+Boudh,5
+Ariyalur,5
+Tehri Garhwal,5
+Khunti,5
+Kannauj,5
+Shajapur,5
+Budgam,5
+Jamtara,5
+Guna,4
+Shivpuri,4
+Arwal,4
+Baramulla,4
+Sahibganj,4
+Papum Pare,4
+Shravasti,4
+Tikamgarh,4
+Baran,4
+Shahdol,4
+Anantnag,4
+Kanker,4
+Kohima,4
+Bijapur,4
+Karaikal,4
+Rajgarh,3
+khunti,3
+Mungeli,3
+Gadchiroli,3
+Barpeta,3
+Nagaon,3
+Goalpara,3
+Kamrup Metro,3
+Dinajpur Dakshin,3
+Bageshwar,3
+Koppal,3
+Kathua,3
+Kokrajhar,3
+Damoh,3
+Marigaon,3
+Udhampur,3
+Jaisalmer,3
+Sehore,3
+24 Pargs (N),2
+Lower Subansiri,2
+East Siang,2
+Mahoba,2
+Tarn Taran,2
+Uttarkashi,2
+Imphal East,2
+Churachandpur,2
+Mokokchung,2
+Pakur,2
+Yadgir,2
+East Sikkim,2
+East Garo Hills,2
+Panna,2
+Narsinghpur,2
+Chitrakoot,2
+Anuppur,2
+Singrauli,2
+Pulwama,2
+Dhubri,2
+Nalbari,2
+Datia,2
+Seoni,2
+Tawang,1
+Upper Subansiri,1
+Palghar,1
+Zunheboto,1
+Wokha,1
+Perintalmanna,1
+Muzzffarpur,1
+Raisen,1
+Thoubal,1
+Tuensang,1
+Dima Hasao,1
+Umaria,1
+Sidhi,1
+Burahanpur,1
+Jhabua,1
+Bhind,1
+Dhemaji,1
+Darrang,1
+Doda,1
+Karbi Anglong,1
+Lakshadweep,1
+Shadol,1
+Rudraprayag,1
